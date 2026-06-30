@@ -67,6 +67,8 @@ except FileNotFoundError as e:
 # ──────────────────────────────────────────────────────────────────────────
 st.title("🏦 Predicción de Churn de Clientes")
 st.caption("Red neuronal MLP (Keras / TensorFlow) entrenada sobre el dataset Churn Modelling")
+st.caption("Elaborado por Orlando Advíncula Zeballos")
+
 
 st.markdown(
     "Completa los datos del cliente para estimar la probabilidad de que "
